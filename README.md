@@ -6,7 +6,7 @@
 ### Datos sobre mí:<br>
 👨‍💻 Diego Pizarro<br>
 🎂 37 años<br>
-💻 Desarrollador en la Municipalidad de Bardero<br>
+💻 Desarrollador en la Municipalidad de Baradero<br>
 🏋️‍♂️ Me gusta ir al gimnasio y salir a correr<br>
 🥗 Comer sano<br>
 🔄 Rutina: Comer - Dormir - Programar - Repetir<br>
