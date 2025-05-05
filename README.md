@@ -1,4 +1,4 @@
-# Hola soy Diego Pizarro Desarrollador Jr👋
+# Hola soy Diego Pizarro Desarrollador web👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
