@@ -27,7 +27,7 @@
   <img  alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img  alt="mui" src ="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
   <img  alt="bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
- 
+  <img alt="QA Manual" src="https://img.shields.io/badge/QA%20Manual-Testing-blue?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 </div>
 <div align="center">
 <h3> 🤝🏻 Conéctate conmigo </h3>
