@@ -7,10 +7,6 @@
 👨‍💻 Diego Pizarro<br>
 🎂 39 años<br>
 💻 Desarrollador en la Municipalidad de Baradero<br>
-🏋️‍♂️ Me gusta ir al gimnasio y salir a correr<br>
-🥗 Comer sano<br>
-🔄 Rutina: Comer - Dormir - Programar - Repetir<br>
-❤️ Comida y Código<br>
 📫 Contáctame en diego.pizarro1986@gmail.com<br>
 
 ## Mis tecnologías
